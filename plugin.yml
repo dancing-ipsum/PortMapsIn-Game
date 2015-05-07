@@ -1,1 +1,9 @@
+---
 Name: PortMapsIn-Game
+Version: 0.1 Development Build 1
+API: 1.12.0
+Author: MCPEGamerJP
+Main: MCPEGamerJP\PortMapsIn-Game\main
+Description: Porting PC maps to PE maps directly on the server.
+Website: http://github.com/MCPEGamerJPatGitHub/PortMapsIn-Game
+
