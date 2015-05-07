@@ -1,0 +1,4 @@
+#Would you like a instant transfer to the ported worlds?
+instant.transfer: true
+#Would you like to change the name of the ported world?
+change.name: true
