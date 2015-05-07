@@ -7,3 +7,5 @@ Main: MCPEGamerJP\PortMapsIn-Game\main
 Description: Porting PC maps to PE maps directly on the server.
 Website: http://github.com/MCPEGamerJPatGitHub/PortMapsIn-Game
 
+permissions:
+ portmaps.admin:
