@@ -8,6 +8,8 @@ use pocketmine\event\block\signchangeevent;
 use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\worlds\enableworld;
 
-       public $plugins;
-       
-class Main extends PluginBase
+
+class main extends PluginBase;
+
+>
+
